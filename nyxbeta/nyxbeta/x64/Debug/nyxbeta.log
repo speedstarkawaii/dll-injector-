@@ -1,0 +1,7 @@
+﻿  nyxbeta.cpp
+C:\Users\ourko\source\repos\nyxbeta\nyxbeta\nyxbeta.cpp(14,103): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\ourko\source\repos\nyxbeta\nyxbeta\nyxbeta.cpp(517,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ourko\source\repos\nyxbeta\nyxbeta\nyxbeta.cpp(565,42): warning C4244: '=': conversion from 'ULONG_PTR' to 'NTSTATUS', possible loss of data
+C:\Users\ourko\source\repos\nyxbeta\nyxbeta\nyxbeta.cpp(584,1): warning C4102: 'quit': unreferenced label
+C:\Users\ourko\source\repos\nyxbeta\nyxbeta\nyxbeta.cpp(506,38): warning C4101: 'FactoryB': unreferenced local variable
+  nyxbeta.vcxproj -> C:\Users\ourko\source\repos\nyxbeta\x64\Debug\nyxbeta.exe

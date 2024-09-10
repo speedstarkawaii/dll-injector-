@@ -1,0 +1,14 @@
+﻿  nyxbeta.cpp
+C:\Users\ourko\source\repos\nyxbeta\nyxbeta\headers.h(25,103): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\ourko\source\repos\nyxbeta\nyxbeta\nyxbeta.cpp(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ourko\source\repos\nyxbeta\nyxbeta\nyxbeta.cpp(369,42): warning C4244: '=': conversion from 'ULONG_PTR' to 'NTSTATUS', possible loss of data
+C:\Users\ourko\source\repos\nyxbeta\nyxbeta\nyxbeta.cpp(390,1): warning C4102: 'quit': unreferenced label
+C:\Users\ourko\source\repos\nyxbeta\nyxbeta\nyxbeta.cpp(313,38): warning C4101: 'FactoryB': unreferenced local variable
+  Generating code
+  1 of 25 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  nyxbeta.vcxproj -> C:\Users\ourko\source\repos\Nyx+\Nyx+\bin\x64\Release\assets\nyxbeta.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
